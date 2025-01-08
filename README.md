@@ -14,4 +14,5 @@ I didn't create many things, so I have few to tell you. If you want to know more
 
 ## Donate
 
-![buy_me_a_coffee](https://github.com/user-attachments/assets/9358b7ac-dce1-44a6-a088-6fa68051829a)
+
+![比特币](https://github.com/user-attachments/assets/7155ab2d-fe4e-40e9-b0cd-238c9c2b8f32)
