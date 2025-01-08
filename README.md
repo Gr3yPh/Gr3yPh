@@ -14,5 +14,4 @@ I didn't create many things, so I have few to tell you. If you want to know more
 
 ## Donate
 
-Bitcoin: bc1q6wzjpumlncmu0e0uyvw9cydjjfn5tyxssn3mp0
-Ethereum: 0x0D6fD2CC9182C7a9322BF5a8d218e751FBCf621F
+![buy_me_a_coffee](https://github.com/user-attachments/assets/9358b7ac-dce1-44a6-a088-6fa68051829a)
