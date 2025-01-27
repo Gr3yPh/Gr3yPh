@@ -1,3 +1,6 @@
+![mm_reward_qrcode_1737972663885](https://github.com/user-attachments/assets/4bac6154-fc73-4ee1-a9bb-af61b57fc1f1)
+![mm_facetoface_collect_qrcode_1737972564110](https://github.com/user-attachments/assets/7c072ea7-2a44-480e-af14-770709127b76)
+![1737972444792](https://github.com/user-attachments/assets/6fd7da80-03a5-451d-8a24-3f40e16e2fef)
 # Gr3yPh is here now!
 
 ## Who am I?
