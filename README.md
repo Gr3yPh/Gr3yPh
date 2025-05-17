@@ -1,22 +1,48 @@
+```markdown
+# Gr3yPh4ntom 个人主页摘要
 
-# Gr3yPh is here now!
+## 🧑‍💻 关于我
+- 中国高中生，网络安全爱好者
+- 技术兴趣：黑客技术/编程/游戏（蔚蓝档案玩家）
+- 语言学习：英语→日语（自学中）
 
-## Who am I?
+## 💻 技术栈
+```mermaid
+barChart
+    title 编程能力
+    Python 90
+    PHP 70
+    HTML/CSS 60
+    JavaScript 40
+    C# 30
+    "C/Java" 20
+```
 
-Well, I can't tell you anything about my privacy. But I want to be a hacker, maybe white hat, or gray hat, that's it.
+## 🗂️ 主要项目
+| 项目 | 描述 | 技术栈 |
+|------|------|--------|
+| [SYNFlooder](https://github.com/gr3yph/synflooder) | TCP-SYN洪水测试工具 | Python |
+| [Wasac](https://github.com/gr3yph/wasac) | Web认证破解工具（BurpSuite替代） | Python |
+| [Unix in JS](https://github.com/gr3yph/unix-in-js) | 浏览器UNIX模拟系统 | HTML5/JS |
 
-## What did I created?
+## 🌐 多语言支持
+- 中文/English/日本語 三语切换
+- 纯CSS实现无JS交互
 
-I didn't create many things, so I have few to tell you. If you want to know more, just visit my repositories.
+## 🎨 设计特点
+```mermaid
+pie
+    title UI特性
+    "赛博朋克风格" : 45
+    "响应式布局" : 25
+    "滚动动画" : 20
+    "无JavaScript" : 10
+```
 
-## And also...
+## 📮 联系方式
+`gr3yph4ntom@onionmail.org`  
 
-**Don't mind this, I just wrote it for fun :)**
+---
+> "The quieter you become, the more you are able to hear."  
 
-## Donate
 
-
-![比特币](https://github.com/user-attachments/assets/7155ab2d-fe4e-40e9-b0cd-238c9c2b8f32)
-![mm_reward_qrcode_1737972663885](https://github.com/user-attachments/assets/4bac6154-fc73-4ee1-a9bb-af61b57fc1f1)
-![mm_facetoface_collect_qrcode_1737972564110](https://github.com/user-attachments/assets/7c072ea7-2a44-480e-af14-770709127b76)
-![1737972444792](https://github.com/user-attachments/assets/6fd7da80-03a5-451d-8a24-3f40e16e2fef)
