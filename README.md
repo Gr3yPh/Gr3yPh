@@ -1,4 +1,3 @@
-```markdown
 # Gr3yPh4ntom 个人主页摘要
 
 ## 🧑‍💻 关于我
