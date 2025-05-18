@@ -10,12 +10,12 @@
 ```mermaid
 barChart
     title 编程能力
-    Python 90
-    PHP 70
-    HTML/CSS 60
-    JavaScript 40
-    C# 30
-    "C/Java" 20
+    Python      90
+    PHP         70
+    HTML/CSS    60
+    JavaScript  40
+    C#          30
+    C/Java      20
 ```
 
 ## 🗂️ 主要项目
