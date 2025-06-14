@@ -7,18 +7,17 @@
 - 萌新BA玩家：最爱白子酱啦😘
 
 ## 💻 技术栈
+
 ```mermaid
-barChart
-    title 编程能力
-    Python      90
-    PHP         70
-    HTML/CSS    60
-    JavaScript  40
-    C#          30
-    C/Java      20
+xychart-beta
+    title "编程能力"
+    x-axis [Python, PHP, "HTML/CSS", JavaScript, C#, "C/Java"]
+    y-axis "熟练度" 0 --> 100
+    bar [90, 70, 60, 40, 30, 20]
 ```
 
 ## 🗂️ 主要项目
+
 | 项目 | 描述 | 技术栈 |
 |------|------|--------|
 | [SYNFlooder](https://github.com/gr3yph/synflooder) | TCP-SYN洪水测试工具 | Python |
@@ -30,5 +29,4 @@ barChart
 
 ---
 > "The quieter you become, the more you are able to hear."  
-
 
