@@ -1,34 +1,58 @@
-# Gr3yPh4ntom 个人主页摘要
+# 魇珩 (Gr3yPh4ntom)
 
-## 🧑‍💻 关于我
-- 中国高中生，苦逼安服仔
-- 技术兴趣：黑客技术/编程/游戏
-- 语言学习：英语→日语（自学）
-- 萌新BA玩家：最爱白子酱啦😘
+> 现实世界的一匹孤狼，赛博宇宙的自由刺客。
+
+## 👤 关于我
+
+拥有多重身份的谜之物种：
+
+- 🎓 学生党
+- 💻 程序员
+- 🔒 ~~黑客~~ 安服仔
+- 🎨 画师 ~~(画的一坨)~~
+- 🎵 室内系的 TrackMaker
+- ⚪ 白子厨
+- 🎤 锦依卫
+- 🎮 游戏白嫖大师
+- 🎭 Live2D 建模师
 
 ## 💻 技术栈
-```mermaid
-barChart
-    title 编程能力
-    Python      90
-    PHP         70
-    HTML/CSS    60
-    JavaScript  40
-    C#          30
-    C/Java      20
-```
 
-## 🗂️ 主要项目
-| 项目 | 描述 | 技术栈 |
-|------|------|--------|
-| [SYNFlooder](https://github.com/gr3yph/synflooder) | TCP-SYN洪水测试工具 | Python |
-| [Wasac](https://github.com/gr3yph/wasac) | Web认证破解工具（BurpSuite替代） | Python |
-| [Unix in JS](https://github.com/gr3yph/unix-in-js) | 浏览器UNIX模拟系统 | HTML5/JS |
+**精通领域：**
+- Python / CSS / PHP
+- 前后端开发
+- Web 安全攻防
 
-## 📮 联系方式
-`gr3yph4ntom@onionmail.org`  
+**正在探索：**
+- 二进制安全
+- 逆向工程
 
----
-> "The quieter you become, the more you are able to hear."  
+## 🎯 技术理念
 
+- 致力于推进网络民主和技术自由
+- 惯用 Kali Linux，鄙视 Windows 钉子户
+- 反对国内主流社交平台（抖音、快手、微信、QQ）
+- 经常批判百度、金山、360、华为等公司
 
+## 🎵 创作相关
+
+- 熟练使用 Vocaloid、Cakewalk、Sekaiyu
+- 信奉"全凭感觉也可以做神调教"
+- 创作风格：随性而为，感觉对了就循环
+
+## 🎮 游戏偏好
+
+- 专业白嫖党（3DM 等平台）
+- 刺客信条、《看门狗》系列（通常玩一半弃坑）
+- 沉迷《冰与火之舞》
+- 游戏收藏家（D盘吃灰专业户）
+
+## 💭 哲学观点
+
+- 认同尼采的权力意志与超人哲学
+- 对马克思主义存在排斥与否定
+- 自由意志的坚定拥护者
+
+##🌐 Blog
+
+https://gr3yph.gt.tc
