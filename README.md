@@ -1,54 +1,52 @@
-# 魇珩 (Gr3yPh4ntom)
+# 🎭 Gr3yPh4ntom | 魇珩
 
-> 现实世界的一匹孤狼，赛博宇宙的自由刺客。
+> **"世界那么大，能遇见你，真是太好了。"** — 🟦 #66CCFF 
 
-## 👤 关于我
+一位正处于高中阶段的开源狂热者，从代码的海洋跨界到网安的隐秘角落，在逻辑与旋律之间寻找意志的平衡。
 
-拥有多重身份的谜之物种：
+---
 
-- 🎓 学生党
-- 💻 程序员
-- 🔒 ~~黑客~~ 安服仔
-- 🎨 画师 ~~(画的一坨)~~
-- 🎵 室内系的 TrackMaker
-- ⚪ 白子厨
-- 🎤 锦依卫
-- 🎮 游戏白嫖大师
-- 🎭 Live2D 建模师
+## 🧑‍💻 关于我 (Who am I)
 
-## 💻 技术栈
+- 🛡️ **网安学徒**: 编程出身，现半路出家投身 **Cyber Security**，在攻防之间探索真相。
+- 🐧 **发行版迁移者**: **Debian** 老用户，目前正深度沉浸在 **openSUSE** 的变色龙世界里。
+- 🕊️ **自由意志**: 
+  - 哲学上推行 **唯意志论 (Voluntarism)**，笃信权力意志。
+  - 政治上拥护 **古典自由主义 (Classical Liberalism)**，支持个体自由与边界。
+- 🌐 **Web3 拥护者**: 热爱技术自由，尤其是 **nostr** 协议，坚信去中心化是未来的归宿。
 
-**精通领域：**
-- Python / CSS / PHP
-- 前后端开发
-- Web 安全攻防
+---
 
-**正在探索：**
-- 二进制安全
-- 逆向工程
+## 🎨 艺术与二次元 (Vocaloid & ACG)
 
-## 🎯 技术理念
+- 🎤 **死忠锦依卫**: 8(:D 洛天依的歌声是我的精神坐标。
+- 🎹 **音乐创作者**: 略懂编曲，精通 **Vocaloid 调教**，尝试赋予数字生命以灵魂。
+- 📺 **二次元老登**: 启蒙自《蔚蓝档案》(Blue Archive)，虽已弃坑，但那份热血（和胃疼）依然在。
+- 🎮 **音游萌新**: **ADOFAI** 攀登中 / **Rizline** 手机常驻。
 
-- 致力于推进网络民主和技术自由
-- 惯用 Kali Linux，鄙视 Windows 钉子户
-- 反对国内主流社交平台（抖音、快手、微信、QQ）
-- 经常批判百度、金山、360、华为等公司
+---
 
-## 🎵 创作相关
+## 🛠️ 技术栈 (Tech Stack)
 
-- 熟练使用 Vocaloid、Cakewalk、Sekaiyu
-- 信奉"全凭感觉也可以做神调教"
-- 创作风格：随性而为，感觉对了就循环
+| 类别 | 偏好内容 |
+| :--- | :--- |
+| **OS** | **openSUSE Leap** |
+| **DE** | **KDE Plasma**  |
+| **Tools** | LibreOffice, Vim, Git, Burp Suite |
+| **Protocols** | Nostr, IPFS, Web3.0 |
 
-## 🎮 游戏偏好
+---
 
-- 专业白嫖党（3DM 等平台）
-- 刺客信条、《看门狗》系列（通常玩一半弃坑）
-- 沉迷《冰与火之舞》
-- 游戏收藏家（D盘吃灰专业户）
+## 📊 GitHub 统计 (Stats)
 
-## 💭 哲学观点
+![Gr3yPh4ntom's Stats](https://github-readme-stats.vercel.app/api?username=Gr3yPh4ntom&show_icons=true&theme=vue-conf&count_private=true)
 
-- 认同尼采的权力意志与超人哲学
-- 对马克思主义存在排斥与否定
-- 自由意志的坚定拥护者
+---
+
+## 🔗 连接与引用
+- 📖 **Blog**: [魇珩Gr3yPh4ntomの部落格](https://gr3yph.gt.tc)
+- 🗝️ **Nostr**: `npub1w0twvgtg60uxle62nqj5k6zv9d42lxl7tw8cdhz97n4tyafrp3wqdfxsyq`
+
+---
+
+**"May the Source be with you. 🟦"**
