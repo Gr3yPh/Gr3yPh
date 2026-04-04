@@ -1,7 +1,7 @@
 # 👋 Hello, I'm Gr3yPh4ntom!
 
 <p align="center">
-  <img src="http://gr3yph.gt.tc/wp-content/uploads/2026/04/1775276801-gr3yph4ntom-full-border-408x1024.png" alt="Gr3yPh4ntom" width="300px" />
+  <img src="https://gr3yph-public.puter.site/gr3yph4ntom-full-border.png" alt="Gr3yPh4ntom" width="300px" />
   <br>
   <em>这是我！！！</em>
 </p>
