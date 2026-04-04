@@ -1,12 +1,6 @@
 # 👋 Hello, I'm Gr3yPh4ntom!
 
 <p align="center">
-  <img src="https://gr3yph-public.puter.site/gr3yph4ntom-full-border.png" alt="Gr3yPh4ntom" width="300px" />
-  <br>
-  <em>这是我！！！</em>
-</p>
-
-<p align="center">
   <img src="https://img.shields.io/badge/OS-Arch%20Linux-1793D1?style=flat-square&logo=arch-linux&logoColor=white" />
   <img src="https://img.shields.io/badge/Desktop-GNOME-4A86CF?style=flat-square&logo=gnome&logoColor=white" />
   <img src="https://img.shields.io/badge/Focus-CyberSecurity-red?style=flat-square&logo=hack-the-box&logoColor=white" />
@@ -15,6 +9,13 @@
   <img src="https://img.shields.io/badge/Music-Vocaloid-00ADBB?style=flat-square&logo=vocaloid&logoColor=white" />
   <img src="https://img.shields.io/badge/Game-Arknights-000000?style=flat-square&logo=hypergryph&logoColor=white" />
 </p>
+
+<p align="center">
+  <img src="https://gr3yph-public.puter.site/gr3yph4ntom-full-border.png" alt="Gr3yPh4ntom" width="300px" />
+  <br>
+  <em>这是我！！！</em>
+</p>
+
 ---
 
 ### 👤 关于我 / About Me
