@@ -6,6 +6,15 @@
   <em>这是我！！！</em>
 </p>
 
+<p align="center">
+  <img src="https://img.shields.io/badge/OS-Arch%20Linux-1793D1?style=flat-square&logo=arch-linux&logoColor=white" />
+  <img src="https://img.shields.io/badge/Desktop-GNOME-4A86CF?style=flat-square&logo=gnome&logoColor=white" />
+  <img src="https://img.shields.io/badge/Focus-CyberSecurity-red?style=flat-square&logo=hack-the-box&logoColor=white" />
+  <img src="https://img.shields.io/badge/Web3-Nostr-8E44AD?style=flat-square&logo=rss&logoColor=white" />
+  <img src="https://img.shields.io/badge/Open%20Source-Enthusiast-brightgreen?style=flat-square&logo=opensourceinitiative&logoColor=white" />
+  <img src="https://img.shields.io/badge/Music-Vocaloid-00ADBB?style=flat-square&logo=vocaloid&logoColor=white" />
+  <img src="https://img.shields.io/badge/Game-Arknights-000000?style=flat-square&logo=hypergryph&logoColor=white" />
+</p>
 ---
 
 ### 👤 关于我 / About Me
