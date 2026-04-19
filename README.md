@@ -12,7 +12,7 @@
 <p align="center">
   <img src="https://gr3yph-public.puter.site/gr3yph4ntom-full-border.png" alt="Gr3yPh4ntom" width="300px" />
   <br>
-  <em>这是我！！！</em>
+  <em>这就当是我替身了</em>
 </p>
 
 ---
@@ -38,3 +38,15 @@
 ---
 
 > *"Keep It Simple, Stupid." — The Arch Way*
+
+<p align="center">
+  <small>
+    <a href="https://gr3yph4ntom.cn">Blog</a> • 
+    <a href="https://space.bilibili.com/3537113215666556">Bilibili</a> • 
+    <a href="http://github.com/Gr3yPh">GitHub</a> • 
+    <a href="https://www.youtube.com/channel/UCEYsuPZOmtoTi2yeMlJ4OYQ">YouTube</a> • 
+    <a href="https://www.instagram.com/Gr3yPh4ntom/">Instagram</a> • 
+    <a href="https://www.pixiv.net/users/118457606">Pixiv</a> • 
+    <a href="https://bsky.app/profile/gr3yph4ntom.cn">Bluesky</a>
+  </small>
+</p>
