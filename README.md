@@ -10,7 +10,7 @@
 </p>
 
 <p align="center">
-  <img src="https://gr3yph-public.puter.site/illustration.png" alt="Gr3yPh4ntom" width="300px" />
+  <img src="https://res.gr3yph4ntom.cn/illustration.png" alt="Gr3yPh4ntom" width="500px" />
   <br>
   <em>这就当是我替身了</em>
 </p>
