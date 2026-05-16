@@ -2,7 +2,7 @@
 
 <p align="center">
   <img src="https://img.shields.io/badge/OS-Arch%20Linux-1793D1?style=flat-square&logo=arch-linux&logoColor=white" />
-  <img src="https://img.shields.io/badge/Desktop-GNOME-4A86CF?style=flat-square&logo=gnome&logoColor=white" />
+  <img src="https://img.shields.io/badge/WM-Hyprland-%2300a7af?style=flat-square" />
   <img src="https://img.shields.io/badge/Focus-CyberSecurity-red?style=flat-square&logo=hack-the-box&logoColor=white" />
   <img src="https://img.shields.io/badge/Open%20Source-Enthusiast-brightgreen?style=flat-square&logo=opensourceinitiative&logoColor=white" />
   <img src="https://img.shields.io/badge/Music-Vocaloid-00ADBB?style=flat-square&logo=vocaloid&logoColor=white" />
@@ -21,7 +21,7 @@
 
 * 🎓 **身份：** 现役高中生
 * 🏷️ **别名：** `魇珩`、`Gr3yPh4ntom`、`Gr3yPh`、`グレファン`
-* 💻 **技术栈：** 编程起家，现转战 **网络安全 (Cybersecurity)**
+* 💻 **技术栈：** 编程起家，现转战 **网络安全 (Cybersecurity)**，正在猛攻算法，冲 **NOI**
 * 🚀 **OS：** **Arch Linux is best!** (Debian 往事已成烟云)
 * 🌐 **技术理想：** 支持技术自由，热爱 **Web3**
 * ❤️ **开源狂热：** 开源社区铁粉，从 KDE 到 LibreOffice 全力拥抱
