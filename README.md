@@ -6,7 +6,7 @@
   <img src="https://img.shields.io/badge/Focus-CyberSecurity-red?style=flat-square&logo=hack-the-box&logoColor=white" />
   <img src="https://img.shields.io/badge/Open%20Source-Enthusiast-brightgreen?style=flat-square&logo=opensourceinitiative&logoColor=white" />
   <img src="https://img.shields.io/badge/Music-Vocaloid-00ADBB?style=flat-square&logo=vocaloid&logoColor=white" />
-  <img src="https://img.shields.io/badge/Game-Touhou-9933cc?style=flat-square&logoColor=white" />
+ <img src="https://img.shields.io/badge/Game-Touhou%20Project-9933cc?style=flat-square&logoColor=white" />
 </p>
 
 <p align="center">
