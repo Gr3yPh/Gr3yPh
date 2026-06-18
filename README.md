@@ -1,52 +1,37 @@
-# 👋 Hello, I'm Gr3yPh4ntom!
+<div align="center">
+  <img style="margin: 2px;" src="https://img.shields.io/badge/OS-Arch%20Linux-1793D1?style=flat-square&amp;logo=arch-linux&amp;logoColor=white" />
+  <img style="margin: 2px;" src="https://img.shields.io/badge/WM-Hyprland-%2300a7af?style=flat-square" />
+  <img style="margin: 2px;" src="https://img.shields.io/badge/Focus-CyberSecurity-red?style=flat-square&amp;logo=hack-the-box&amp;logoColor=white" />
+  <img style="margin: 2px;" src="https://img.shields.io/badge/Open%20Source-Enthusiast-brightgreen?style=flat-square&amp;logo=opensourceinitiative&amp;logoColor=white" />
+  <img style="margin: 2px;" src="https://img.shields.io/badge/Music-Vocaloid-00ADBB?style=flat-square&amp;logo=vocaloid&amp;logoColor=white" />
+  <img style="margin:2px" src="https://img.shields.io/badge/Game-Touhou%20Project-9933cc?style=flat-square&logoColor=white" />
+</div>
 
-<p align="center">
-  <img src="https://img.shields.io/badge/OS-Arch%20Linux-1793D1?style=flat-square&logo=arch-linux&logoColor=white" />
-  <img src="https://img.shields.io/badge/WM-Hyprland-%2300a7af?style=flat-square" />
-  <img src="https://img.shields.io/badge/Focus-CyberSecurity-red?style=flat-square&logo=hack-the-box&logoColor=white" />
-  <img src="https://img.shields.io/badge/Open%20Source-Enthusiast-brightgreen?style=flat-square&logo=opensourceinitiative&logoColor=white" />
-  <img src="https://img.shields.io/badge/Music-Vocaloid-00ADBB?style=flat-square&logo=vocaloid&logoColor=white" />
- <img src="https://img.shields.io/badge/Game-Touhou%20Project-9933cc?style=flat-square&logoColor=white" />
-</p>
+## 📌 About Me
 
-<p align="center">
-  <img src="https://res.gr3yph4ntom.cn/illustration.png" alt="Gr3yPh4ntom" width="500px" />
-  <br>
-  <em>这就当是我替身了</em>
-</p>
-
----
-
-### 👤 关于我 / About Me
-
-* 🎓 **身份：** 现役高中生
-* 🏷️ **别名：** `魇珩`、`Gr3yPh4ntom`、`Gr3yPh`、`グレファン`
-* 💻 **技术栈：** 编程起家，现转战 **网络安全 (Cybersecurity)**，正在补习算法，备战 **NOIP**
-* 🚀 **OS：** **Arch Linux is best!** (Debian 往事已成烟云)
-* 🌐 **技术理想：** 支持技术自由，热爱 **Web3**
-* ❤️ **开源狂热：** 开源社区铁粉，从 KDE 到 LibreOffice 全力拥抱
-
-### 🎨 兴趣爱好 / Hobbies
-
-* 🎵 **音乐：** 业余编曲，**Vocaloid 调教** 高手
-* 🎤 **锦依卫：** 洛天依死忠 8(:D
-* 📺 **二次元：** BA 弃坑，猛肝 **红魔乡**
-* 📖 **哲学：** 尼采信徒
-* 🎮 **音游：** ADOfai 萌新 / Rizline 玩家
-* ~~是个大鲨臂~~
+* Goes by many aliases, including but not limited to: `魇珩`, `Gr3yPh4ntom`, `Gr3yPh`, and `グレファン`.
+* A high school freshman struggling to survive. 😂
+* *A pretty weird creature. True to the name "Phantom",  not seem very approachable to humans.* 👻
+* Spent a few years coding, then took a detour into **Cybersecurity**. Currently grinding algorithms for NOI.
+* Music is a huge passion. I know a bit of music arrangement, and my Vocaloid tuning skills are actually pretty solid.
+* Die-hard fan of **Luo Tianyi** (Jin Yi Wei) 8(:D
+* An ACG veteran. Blue Archive was my gateway anime/game, though I've already dropped it.
+* Proud **Touhou Project** player.
+* Probably read a bit too much Nietzsche. 📚
+* Advocate for tech freedom and techno-anarchism.
+* **Arch is best!** (Btw I use Arch)
+* Open-source fanatic. Love everything from KDE to LibreOffice.
+* Rhythm game player. Currently an ADOFAI noob, with Rizline installed on my phone.
 
 ---
 
-> *"Keep It Simple, Stupid." — The Arch Way*
+## 💬 Languages & Tech Stack
 
-<p align="center">
-  <small>
-    <a href="https://gr3yph4ntom.cn">Blog</a> • 
-    <a href="https://space.bilibili.com/3537113215666556">Bilibili</a> • 
-    <a href="http://github.com/Gr3yPh">GitHub</a> • 
-    <a href="https://www.youtube.com/channel/UCEYsuPZOmtoTi2yeMlJ4OYQ">YouTube</a> • 
-    <a href="https://www.instagram.com/Gr3yPh4ntom/">Instagram</a> • 
-    <a href="https://www.pixiv.net/users/118457606">Pixiv</a> • 
-    <a href="https://bsky.app/profile/gr3yph4ntom.cn">Bluesky</a>
-  </small>
-</p>
+* **Human Languages:** 中文 (Native), English, 日本語
+* **Machine Languages:** C++, Java, CSS, PHP, Python
+
+---
+
+## 🌐 Social Media
+
+Check out my [Homepage](https://gr3yph4ntom.cn) for more links!
