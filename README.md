@@ -9,30 +9,19 @@
 
 ## 📌 About Me
 
-<table border="0" style="border: none; background: transparent;">
-  <tr style="border: none; background: transparent;">
-    <td width="70%" style="border: none; vertical-align: top;">
-      <ul>
-        <li>Goes by many aliases, including but not limited to: <code>魇珩</code>, <code>Gr3yPh4ntom</code>, <code>Gr3yPh</code>, and <code>グレファン</code>.</li>
-        <li>A high school freshman struggling to survive. 😂</li>
-        <li><em>A pretty weird creature. True to the name "Phantom", I don't seem very approachable to humans.</em> 👻</li>
-        <li>Spent a few years coding, then took a detour into <b>Cybersecurity</b>. Currently grinding algorithms for NOI.</li>
-        <li>Music is a huge passion. I know a bit of music arrangement, and my Vocaloid tuning skills are actually pretty solid.</li>
-        <li>Die-hard fan of <b>Luo Tianyi</b> (Jin Yi Wei) 8(:D</li>
-        <li>An ACG veteran. Blue Archive was my gateway anime/game, though I've already dropped it.</li>
-        <li>Proud <b>Touhou Project</b> player.</li>
-        <li>Probably read a bit too much Nietzsche. 📚</li>
-        <li>Advocate for tech freedom and techno-anarchism.</li>
-        <li><b>Arch is best!</b> (Btw I use Arch)</li>
-        <li>Open-source fanatic. Love everything from KDE to LibreOffice.</li>
-        <li>Rhythm game player. Currently an ADOFAI noob, with Rizline installed on my phone.</li>
-      </ul>
-    </td>
-    <td width="30%" style="border: none; vertical-align: middle;" align="center">
-      <img src="https://res.gr3yph4ntom.cn/q.png" width="220" alt="Avatar" />
-    </td>
-  </tr>
-</table>
+* Goes by many aliases, including but not limited to: `魇珩`, `Gr3yPh4ntom`, `Gr3yPh`, and `グレファン`.
+* A high school freshman struggling to survive. 😂
+* *A pretty weird creature. True to the name "Phantom",  not seem very approachable to humans.* 👻
+* Spent a few years coding, then took a detour into **Cybersecurity**. Currently grinding algorithms for NOI.
+* Music is a huge passion. I know a bit of music arrangement, and my Vocaloid tuning skills are actually pretty solid.
+* Die-hard fan of **Luo Tianyi** (Jin Yi Wei) 8(:D
+* An ACG veteran. Blue Archive was my gateway anime/game, though I've already dropped it.
+* Proud **Touhou Project** player.
+* Probably read a bit too much Nietzsche. 📚
+* Advocate for tech freedom and techno-anarchism.
+* **Arch is best!** (Btw I use Arch)
+* Open-source fanatic. Love everything from KDE to LibreOffice.
+* Rhythm game player. Currently an ADOFAI noob, with Rizline installed on my phone.
 
 ---
 
