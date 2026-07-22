@@ -55,10 +55,10 @@
 
 <p align="center">
   <a href="https://github.com/gr3yph/oiertoolkit">
-    <img src="https://github-readme-stats.shion.dev/api/pin/?username=gr3yph&repo=oiertoolkit&theme=default&hide_border=true" />
+    <img src="https://github-readme-stats.shion.dev/api/pin/?username=gr3yph&repo=oiertoolkit&theme=default&hide_border=false" />
   </a>
   <a href="https://github.com/gr3yph/dotfiles">
-    <img src="https://github-readme-stats.shion.dev/api/pin/?username=gr3yph&repo=dotfiles&theme=default&hide_border=true" />
+    <img src="https://github-readme-stats.shion.dev/api/pin/?username=gr3yph&repo=dotfiles&theme=default&hide_border=false" />
   </a>
 </p>
 
