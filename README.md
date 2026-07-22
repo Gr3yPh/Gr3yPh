@@ -10,7 +10,7 @@
 ## 📌 About Me
 
 * Goes by many aliases, including but not limited to: `魇珩`, `Gr3yPh4ntom`, `Gr3yPh`, and `グレファン`.
-* A high school freshman struggling to survive. 😂
+* A high school student struggling to survive. 😂
 * *A pretty weird creature. True to the name "Phantom",  not seem very approachable to humans.* 👻
 * Spent a few years coding, then took a detour into **Cybersecurity**. Currently grinding algorithms for NOI.
 * Music is a huge passion. I know a bit of music arrangement, and my Vocaloid tuning skills are actually pretty solid.
