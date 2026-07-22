@@ -57,8 +57,8 @@
   <a href="https://github.com/gr3yph/oiertoolkit">
     <img src="https://github-readme-stats.shion.dev/api/pin/?username=gr3yph&repo=oiertoolkit&theme=default&hide_border=true" />
   </a>
-  <a href="https://github.com/gr3yph/unix-in-js">
-    <img src="https://github-readme-stats.shion.dev/api/pin/?username=gr3yph&repo=unix-in-js&theme=default&hide_border=true" />
+  <a href="https://github.com/gr3yph/dotfiles">
+    <img src="https://github-readme-stats.shion.dev/api/pin/?username=gr3yph&repo=dotfiles&theme=default&hide_border=true" />
   </a>
 </p>
 
