@@ -38,7 +38,7 @@
 
 [![Skills](https://skillicons.dev/icons?i=cpp,java,go,python,php,css,html)]()
 
-[![Tools](https://skillicons.dev/icons?i=arch,linux,neovim,emacs,git,github,cloudflare)]()
+[![Tools](https://skillicons.dev/icons?i=arch,linux,emacs,git,github,cloudflare)]()
 
 ---
 
