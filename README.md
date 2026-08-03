@@ -19,7 +19,7 @@
 
 - **魇珩** · Gr3yPh4ntom · グレファン
 - High school student · Code omnivore · Cyber ghost
-- Years of coding → Detoured to **Cybersecurity** → Currently grinding **algorithms**
+- Years of coding → Detoured to **Cybersecurity** → Currently grinding **Theoretical CS**
 - **Vocaloid** tuning · **Luo Tianyi** fan · **Touhou Project** veteran
 - Philosophy: Nietzsche · Faith: Open source freedom
 - *Arch btw · Hyprland btw*
