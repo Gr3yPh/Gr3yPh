@@ -1,12 +1,12 @@
 <div align="center">
   <a href="https://readme-typing-svg.demolab.com/">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=00ADBB&center=true&vCenter=true&width=450&lines=Gr3yPh4ntom+%7C+%E9%AD%87%E7%8F%A9;Arch+%7C+Hyprland+%7C+Cyber;NOI+%2B+Algorithm;Vocaloid+%2B+Touhou;%E2%80%9CWeird+Creature%E2%80%9D" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=00ADBB&center=true&vCenter=true&width=450&lines=Gr3yPh4ntom+%7C+%E9%AD%87%E7%8F%A9;Arch+%7C+KDE+%7C+Cyber;NOI+%2B+Algorithm;Vocaloid+%2B+Touhou;%E2%80%9CWeird+Creature%E2%80%9D" />
   </a>
 </div>
 
 <div align="center">
   <img src="https://img.shields.io/badge/OS-Arch_Linux-1793D1?style=for-the-badge&logo=arch-linux&logoColor=white" />
-  <img src="https://img.shields.io/badge/WM-Hyprland-00a7af?style=for-the-badge&logo=hyprland&logoColor=white" />
+  <img src="https://img.shields.io/badge/WM-KDE%20Plasma-00a7af?style=for-the-badge&logo=kde&logoColor=white" />
   <img src="https://img.shields.io/badge/Focus-CyberSecurity-red?style=for-the-badge&logo=hackthebox&logoColor=white" />
   <img src="https://img.shields.io/badge/Open_Source-Enthusiast-brightgreen?style=for-the-badge&logo=opensourceinitiative&logoColor=white" />
   <img src="https://img.shields.io/badge/Vocaloid-00ADBB?style=for-the-badge&logo=vocaloid&logoColor=white" />
@@ -19,10 +19,10 @@
 
 - **魇珩** · Gr3yPh4ntom · グレファン
 - High school student · Code omnivore · Cyber ghost
-- Years of coding → Detoured to **Cybersecurity** → Currently grinding **Theoretical CS**
+- Years of coding → Detoured to **Cybersecurity** → Currently grinding **Algorithms and Computational Complexity**
 - **Vocaloid** tuning · **Luo Tianyi** fan · **Touhou Project** veteran
 - Philosophy: Nietzsche · Faith: Open source freedom
-- *Arch btw · Hyprland btw*
+- *Arch btw*
 
 ---
 
